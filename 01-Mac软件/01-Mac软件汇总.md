@@ -57,11 +57,11 @@
 -   [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。
 -   [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的 Mac OS 电脑硬件信息检测软件。
 -   [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。【Setapp】
--   [Amphetamine](https://github.com/x74353/AmphetamineBeta) - 防止休眠。
--   [Dropover](https://dropoverapp.com/) 复制多个不同目录的文件到其他目录很有用。
--   [KeyCastr](https://github.com/keycastr/keycastr) 记录当前的按键。
--   [Easy New File]() 快速创建文件。
--   [Scherlokk](https://naarakstudio.com/scherlokk/) 好用的搜索工具。
+-   [Amphetamine](https://github.com/x74353/AmphetamineBeta) - 防止休眠。【App Store】
+-   [Dropover](https://dropoverapp.com/) - 复制多个不同目录的文件到其他目录很有用。
+-   [KeyCastr](https://github.com/keycastr/keycastr) - 记录当前的按键。
+-   [Easy New File]() - 快速创建文件。【App Store】
+-   [Scherlokk](https://naarakstudio.com/scherlokk/) - 好用的搜索工具。【App Store】
 
 ## 二、办公软件
 
@@ -88,7 +88,7 @@
 
 -   [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作 SVN 方便好用。
 -   [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
--   [drwa.io](https://app.diagrams.net/) 流程图、UML、类图等。
+-   [drwa.io](https://app.diagrams.net/) - 流程图、UML、类图等。
 -   [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。【Setapp】
 
 ### 其它工具
@@ -101,13 +101,12 @@
 ### Mac 系统清理、内存管理
 
 -   [CleanMyMac X](https://cleanmymac.com/zh) - 一款真正的 Mac 清理应用。
--   [OmniDiskSweeper](https://www.omnigroup.com/more) 分析文件的分布情况。
+-   [OmniDiskSweeper](https://www.omnigroup.com/more) - 分析文件的分布情况。
 
 ## 冲浪 🏄
 
 -   [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。
-
--   [ClashX Pro](https://github.com/yichengchen/clashX/releases) 灵活的流量分流。
+-   [ClashX Pro](https://github.com/yichengchen/clashX/releases) - 灵活的流量分流。
 
 ## FTP 客户端
 
@@ -127,7 +126,6 @@
 ### Markdown 图片上传
 
 -   [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。
-
 -   [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。60 元/年。
 
 ### 电子书相关
@@ -141,7 +139,7 @@
 
 ## 浏览器
 
--   [Microsoft Edge](https://www.microsoft.com/en-us/edge) - 微软。
+-   [Microsoft Edge](https://www.microsoft.com/en-us/edge) - 微软出品。
 -   [Chrome](http://www.google.cn/chrome/browser/) - Chrome 浏览器谷歌出品。
 -   [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
 
@@ -167,7 +165,6 @@
 
 > 其实 Mac 自带的邮件客户端已经很好用了。
 
--   [网易邮箱大师](https://www.waerfa.com/neteasemailmaster-for-mac)
 -   [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持 Mac 和 iPhone。
 -   [Airmail](http://airmailapp.com) - 快速的邮件客户端支持 Mac 和 iPhone。
 
@@ -223,7 +220,7 @@
 -   [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。
 -   [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。
 -   [mycli](https://github.com/dbcli/mycli) - 为 MySQL 命令行客户端，提供语法高亮和提示功能的工具！
--   [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。
+-   [tmux](https://github.com/tmux/tmux) - 终端登录远程主机的命令行工具。
 
 ## 远程协助
 
