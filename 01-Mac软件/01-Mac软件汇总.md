@@ -11,7 +11,7 @@
 
 -   [CleanShot X](https://cleanshot.com/) - 支持长截图，录制视频，Gif 等。【Setapp】
 
--   [Xnip](https://zh.xnipapp.com)- Mac 上方便好用的截图工具，支持滚动截图(免费版有水印，可付费升级去除)。【荐】
+-   [Xnip](https://zh.xnipapp.com) - Mac 上方便好用的截图工具，支持滚动截图(免费版有水印，可付费升级去除)。【荐】
 
 -   [snipaste](https://zh.snipaste.com/) - 免费好用，貌似不支持滚动截图。
 
@@ -56,8 +56,12 @@
 -   [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的 OS X 的键盘定制。
 -   [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。
 -   [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的 Mac OS 电脑硬件信息检测软件。
--   [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。
--   [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
+-   [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。【Setapp】
+-   [Amphetamine](https://github.com/x74353/AmphetamineBeta) - 防止休眠。
+-   [Dropover](https://dropoverapp.com/) 复制多个不同目录的文件到其他目录很有用。
+-   [KeyCastr](https://github.com/keycastr/keycastr) 记录当前的按键。
+-   [Easy New File]() 快速创建文件。
+-   [Scherlokk](https://naarakstudio.com/scherlokk/) 好用的搜索工具。
 
 ## 二、办公软件
 
@@ -117,19 +121,19 @@
 
 ### Markdown 编辑器
 
--   [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown（Setapp）。
+-   [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。【Setapp】
 -   [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。[hot]
 
 ### Markdown 图片上传
 
--   [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。[荐]。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
+-   [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。
 
 -   [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。60 元/年。
 
 ### 电子书相关
 
 -   [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
--   [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
+-   [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。
 
 ### pdf 阅读
 
@@ -183,12 +187,19 @@
 -   [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器。
 -   [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款 Java 开发集成环境。
 -   [Webstorm](http://www.jetbrains.com/webstorm/) - 是 jetbrains 公司旗下一款 JavaScript 开发工具。
+-   [CotEditor](https://coteditor.com/)
 
 ## 开发者工具
 
 -   [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。
 -   [Dash](https://kapeli.com/dash) - 强大到你无法想象的 API 离线文档软件。
 -   [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。
+-   [Docker](https://docs.docker.com/docker-for-mac/install/)
+
+## 反编译
+
+-   [JD-GUI](http://java-decompiler.github.io/)
+-   [Luyten](https://github.com/deathmarine/Luyten)
 
 ### 代码比对
 
